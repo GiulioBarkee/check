@@ -2,7 +2,7 @@ backend:
   name: github
   branch: main # Branch to update (optional; defaults to master)
   repo: giuliobarkee/check
-  base_url: https://3fc27540.check-7ge.pages.dev
+  base_url: https://check-7ge.pages.dev
   auth_endpoint: /api/auth
 
 local_backend: true
